@@ -1,16 +1,14 @@
-### Hi there 👋
+<!-- markdownlint-disable -->
 
-<!--
-**faris-isa/faris-isa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Faris Isa 👋
 
-Here are some ideas to get you started:
+## 🏷️ About Me
+- 👨‍💻 👨‍🎓 a part-time student and full-stack freelance developer 
+- 🌱 I'm currently learning typescript for my thesis  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<div align="center">
+<img src="https://lanyard.cnrad.dev/api/369455651698507779?theme=light&bg=80cf95&hideDiscrim=true" align="center" />
+<img src="https://github-readme-stats.vercel.app/api?username=faris-isa&show_icons=true&count_private=true&hide_border=true" align="center" />
+</div>
